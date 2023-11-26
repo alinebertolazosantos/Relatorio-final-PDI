@@ -1,0 +1,11 @@
+Implementar a operação de convolução.
+Utilizando OPENCV, scipy função convolve e implementação manual.
+Implementar seguintes máscaras:
+  Média
+  Guassiano
+  Laplaciano
+  Sobel X
+  Sobel Y
+  Gradiente (Sobel X + Sobel Y)
+  Laplaciano somado a imagem original
+Utilizar as imagens já disponibilizadas: biel, lena, cameraman, etc.
