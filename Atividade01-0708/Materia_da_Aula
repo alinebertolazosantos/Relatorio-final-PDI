@@ -1,0 +1,8 @@
+Matéria - 07/08/2023
+O processamento digital de imagens (PDI) é uma área da computação visual que envolve a manipulação de imagens digitais por meio de algoritmos computacionais. Em Python, as bibliotecas numpy e matplotlib são ferramentas poderosas para realizar tarefas relacionadas ao PDI, fornecendo funcionalidades para manipulação eficiente de arrays e visualização de dados.	
+
+NumPy: Manipulação Eficiente de Arrays
+A biblioteca NumPy é fundamental para o PDI devido à sua capacidade de lidar eficientemente com arrays multidimensionais. Imagens digitais são representadas como arrays, onde cada elemento corresponde a um pixel. NumPy oferece funções para realizar operações matriciais e manipulação de array, essenciais para transformações e análises em PDI.
+
+Matplotlib: Visualização de Resultados
+A biblioteca Matplotlib é amplamente utilizada para visualizar resultados no PDI. Ela oferece funções para criar gráficos e exibir imagens de forma clara e informativa.
