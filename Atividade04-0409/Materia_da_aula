@@ -1,0 +1,10 @@
+Filtragem Espacial no Processamento Digital de Imagens
+A filtragem espacial envolve a aplicação de máscaras ou kernels a uma imagem para realizar operações locais em seus pixels. Essas operações podem ter diversos propósitos, como realçar bordas, suavizar detalhes ou realizar a detecção de padrões específicos. A convolução e a correlação são operações fundamentais nesse contexto.
+
+Convolução e Correlação
+A convolução e a correlação são técnicas matemáticas centrais na aplicação de filtros espaciais. A convolução é frequentemente utilizada para realizar operações como suavização e detecção de bordas, enquanto a correlação é empregada para encontrar padrões específicos na imagem.
+A operação de convolução consiste em deslizar um kernel sobre a imagem, multiplicando os valores dos pixels pelo kernel e somando os resultados. Esse processo é repetido para cada posição do kernel na imagem, resultando em uma nova imagem filtrada.
+
+Máscaras de Filtragem Espacial
+As máscaras, também conhecidas como kernels ou filtros, são matrizes que definem padrões específicos a serem aplicados à imagem durante a convolução. Essas máscaras podem ter diferentes tamanhos e formas, dependendo do efeito desejado. Por exemplo, uma máscara de detecção de bordas pode realçar abruptas mudanças de intensidade na imagem.
+
