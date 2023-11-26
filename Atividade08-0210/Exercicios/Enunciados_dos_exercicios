@@ -1,0 +1,9 @@
+1. Implemente a erosão/dilatação utilizando os seguintes elementos estruturantes e utilize todas as imagens:
+
+2.Implemente as operações de abertura e fechamento utilizando apenas o primeiro elemento estruturante do exercício acima. Considerando as imagens de b) a e) quais imagens seria mais interessante utilizar a abertura e quais o fechamento para remover os ruídos?
+
+3. Qual sequência de operações poderia ser realizada para que a imagem f) ficasse apenas com um retângulo branco ao centro? Implemente essas operações.
+
+4. Qual(is) operações seriam necessárias para melhorar a imagem g)? Implemente essa(s) operação(ões)
+
+5.Quais operações seriam necessárias para extrair apenas a borda da imagem h)? Implemente essas operações
