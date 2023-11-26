@@ -1,0 +1,1 @@
+lena = np.array(Image.open('../image/lena_gray_512.tif'))
