@@ -1,0 +1,11 @@
+Propriedades da Transformada de Fourier
+  A Transformada de Fourier é uma ferramenta matemática poderosa que converte uma imagem do domínio espacial para o domínio da frequência, decompondo-a em suas componentes de frequência. Algumas propriedades importantes incluem:
+  Deslocamento de Frequência (Shift): A aplicação da Transformada de Fourier geralmente resulta em um espectro centrado nas frequências zero. O uso de operações como fftshift permite centralizar o espectro para facilitar a interpretação visual.
+  Simetria: Em imagens reais, o espectro de Fourier exibe uma simetria conjugada complexa. Isso significa que as informações nas frequências positivas e negativas são redundantes.
+  Espectro de Magnitude: A magnitude do espectro de Fourier revela a quantidade de energia em diferentes frequências. Picos no espectro indicam componentes de frequência significativos na imagem.
+
+Filtragem no Domínio da Frequência
+  A filtragem no domínio da frequência envolve a manipulação do espectro de Fourier para realçar ou suprimir determinadas frequências. Três tipos comuns de filtros são os filtros passa-alta, passa-baixa e passa-banda.
+  Filtros Passa-Alta: Permitem a passagem de frequências altas enquanto suprimem as frequências mais baixas. São eficazes para realçar bordas e detalhes finos.
+  Filtros Passa-Baixa: Permitem a passagem de frequências baixas enquanto suprimem as frequências mais altas. São úteis para suavizar a imagem e reduzir o ruído.
+  Filtros Passa-Banda: Permitem a passagem de um intervalo específico de frequências, rejeitando outras. São úteis quando se deseja realçar ou suprimir detalhes em uma faixa de frequência específica.
