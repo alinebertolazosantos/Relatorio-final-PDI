@@ -1,7 +1,0 @@
-Utilizar as imagens Fig 3.8 e enhance-me.gif disponíveis no Moodle
-Aplicar a transformação logarítmica, testar vários valores para o parâmetro c "s = c log (1 + r)"
-Aplicar a transformação de potência (gama), testar vários valores para o parâmetro γ e c=1 "s = crγ"
-Implemente a representação de cada plano de bits das imagens
-Implementar a equalização do histograma 
-Elaborar relatório explicando a implementação de cada transformação e qual foi o efeito na imagem.
-
