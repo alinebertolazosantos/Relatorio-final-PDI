@@ -1,0 +1,15 @@
+1. Implementar detector de ponto conforme slide 17.
+
+  1.1. Tirar uma foto de uma imagem com um fundo branco e fazer alguns pontos com caneta preta.
+
+2. Implementar limiarização, definir o limiar.
+
+  2.1. Utilizar a imagem da impressão digital.
+
+3 . Implementar detector de bordas Canny.
+
+  3.1. Aplicar o filtro de borramento (gaussiano) e verificar se o borramento melhora a detecção de bordas.
+
+  3.2. Mudar os parametros T1 e T2 e avaliar a qualidade das bordas detectadas.
+
+
