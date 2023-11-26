@@ -1,0 +1,27 @@
+1. Calcule e visualize o espectro de uma imagem 512x512 pixels:
+  a)   crie e visualize uma imagem simples – quadrado branco sobre fundo preto;
+  b)   calcular e visualizar seu espectro de Fourier (amplitudes);
+  c)    calcular e visualizar seu espectro de Fourier (fases);
+  d)   obter e visualizar seu espectro de Fourier centralizado;
+  e)   Aplique uma rotação de 40º no quadrado e repita os passo b-d;
+  f)   Aplique uma translação nos eixos x e y no quadrado e repita os passo b-d;
+  g)   Aplique um zoom na imagem e repita os passo b-d;
+  h)    Explique o que acontece com a transformada de Fourier quando é aplicado a rotação, translação e zoom.
+
+2. Crie filtros passa-baixa do tipo ideal, butterworth e gaussiano e aplique-o às imagens disponibilizadas. Visualize o seguinte:
+  a)    a imagem inicial;
+  b)    a imagem do spectro de fourier;
+  c)    a imagem de cada filtro;
+  d)     a imagem resultante após aplicação de cada filtro.
+ 
+3. Crie um filtro passa-alta do tipo ideal, butterworth e gaussiano e aplique-o às imagens disponibilizadas. Visualize os mesmos dados da tarefa anterior:
+  a)    a imagem inicial;
+  b)    a imagem do spectro de fourier;
+  c)    a imagem de cada filtro;
+  d)     a imagem resultante após aplicação de cada filtro.
+
+4.     Varie o parâmetro de frequência de corte no filtro passa-baixa criado na tarefa 2. Por exemplo, tome valores de D0 iguais a 0,01, 0,05, 0,5. A imagem inicial é igual à anterior. Visualize as imagens dos filtros e as imagens resultantes. Explique os resultados.
+
+5.     Efetue o mesmo que se pede no item 4, mas use o filtro passa-alta em vez do filtro passa-baixa.
+
+6. Além dos filtros passa-baixa e passa-alta também existe o filtro passa-banda? Explique seu funcionamento e aplique um filtro passa-banda na imagem.
