@@ -1,0 +1,10 @@
+Elementos da Percepção Visual Humana
+O PDI muitas vezes se baseia nos princípios da percepção visual humana para melhorar a qualidade e a eficácia das técnicas aplicadas. Aspectos como contraste, brilho, cores e padrões são fundamentais na interpretação de imagens por humanos, e esses conceitos influenciam a forma como projetamos algoritmos de processamento de imagens.
+Por exemplo, técnicas de realce de contraste podem ser aplicadas para destacar detalhes importantes em uma imagem, replicando o modo como os olhos humanos percebem e distinguem objetos em diferentes condições de iluminação.
+
+Sensores para Aquisição de Imagens
+A aquisição de imagens é o primeiro passo no PDI, e ela é realizada por meio de sensores de imagem. Estes podem ser câmeras digitais, scanners ou outros dispositivos que convertem a informação óptica em dados digitais. A qualidade e a capacidade desses sensores impactam diretamente a qualidade da imagem resultante e, portanto, a eficácia das técnicas de PDI aplicadas posteriormente.
+
+Amostragem e Quantização
+Amostragem e quantização são processos essenciais que ocorrem durante a aquisição de imagens. A amostragem envolve a discretização da informação espacial, enquanto a quantização refere-se à discretização da intensidade luminosa. Ambos os processos são limitados pela resolução do sensor e pelo número de bits usados para representar cada pixel, respectivamente.
+Uma amostragem inadequada ou uma quantização insuficiente podem levar à perda de detalhes e à introdução de artefatos na imagem. Portanto, entender esses processos é crucial para otimizar a qualidade da imagem e garantir que as informações relevantes sejam preservadas.
