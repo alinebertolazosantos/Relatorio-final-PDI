@@ -1,0 +1,9 @@
+Fundamentos das Transformações de Intensidade
+As Transformações de Intensidade no PDI envolvem a modificação da intensidade luminosa dos pixels em uma imagem. Essas transformações podem ser aplicadas para realçar características específicas, corrigir problemas de iluminação ou até mesmo para alterar a aparência global da imagem. Operações como aumento de contraste, ajuste de brilho e inversão de intensidades são exemplos comuns de transformações de intensidade.
+
+Histograma como Ferramenta de Análise
+O histograma de uma imagem é uma representação gráfica da distribuição de intensidades dos pixels. Ele fornece informações cruciais sobre o conteúdo da imagem, como a predominância de certos tons e a distribuição geral de brilho. Entender o histograma é essencial para escolher e ajustar adequadamente as transformações de intensidade.
+
+Equalização de Histograma
+A equalização de histograma é uma técnica importante que visa distribuir uniformemente as intensidades dos pixels na imagem, ampliando o contraste e melhorando a visibilidade de detalhes. Essa técnica é particularmente útil quando uma imagem possui uma distribuição desigual de intensidades ao longo do seu espectro.
+
