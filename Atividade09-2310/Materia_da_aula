@@ -1,0 +1,11 @@
+Introdução à Segmentação de Imagens
+A segmentação de imagens desempenha um papel crucial em várias aplicações, desde a análise de objetos em cenas complexas até a extração de informações importantes de uma imagem. Ela busca identificar e isolar regiões distintas que compartilham características semelhantes, simplificando a análise e interpretação da imagem.
+
+Detecção de Pontos
+A detecção de pontos refere-se à identificação de pixels ou regiões que representam características específicas na imagem. Esta pode ser uma etapa crucial na segmentação, identificando pontos de interesse que são fundamentais para a análise posterior. Algoritmos como o detector de pontos-chave Harris ou o detector de pontos SIFT são comuns nessa fase.
+
+Detecção de Bordas
+A detecção de bordas é uma técnica importante na segmentação, destacando as transições de intensidade na imagem. Bordas frequentemente correspondem a limites entre objetos e são essenciais para a análise estrutural. Algoritmos populares, como o operador de Sobel ou o detector de bordas Canny, são comumente empregados para esse propósito.
+
+Detecção de Retas
+A detecção de retas visa identificar padrões lineares na imagem, fornecendo informações sobre estruturas ou objetos alinhados. Isso é útil em aplicações como reconhecimento de formas e alinhamento de objetos. Transformadas de Hough, como a transformada de Hough para linhas, são frequentemente utilizadas para detectar retas em uma imagem.
