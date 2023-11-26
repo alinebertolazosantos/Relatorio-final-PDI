@@ -1,0 +1,7 @@
+Implementar a Transformada de Fourier (Utilize a biblioteca de sua preferência)
+Implementar a Transformada Inversa de Fourier (Utilize a biblioteca de sua preferência)
+Plotar o espectro e fase.
+Comparar os resultados com ImageJ.
+Plotar o espectro 3D (Pesquisar formas de visualização 3D em Python)
+  Utilizar as imagens disponibilizadas na aula (Images_fourier.rar)
+  Criar uma imagem fundo branco e um quadrado simulando a função SINC
