@@ -1,0 +1,15 @@
+Morfologia Matemática no Processamento Digital de Imagens
+A Morfologia Matemática é uma teoria desenvolvida para o tratamento de imagens em que as formas são fundamentais. Essa abordagem é especialmente útil para a análise de características específicas, como contornos, texturas e estruturas em uma imagem.
+
+  Operações Morfológicas Básicas:
+    Erosão:
+    A erosão é uma operação morfológica que reduz a intensidade dos pixels na imagem, geralmente desgastando os limites dos objetos. Isso é alcançado ao percorrer a imagem com um elemento estruturante (um pequeno padrão) e reduzir a intensidade do pixel central se todos os pixels cobertos pelo elemento estruturante não forem nulos.
+    
+    Dilatação:
+    A dilatação é o oposto da erosão, aumentando a intensidade dos pixels na imagem. Novos pixels são adicionados aos limites dos objetos, tornando-os mais espessos. Assim como na erosão, a dilatação também utiliza um elemento estruturante.
+    
+    Abertura:
+    A abertura é uma sequência de uma erosão seguida por uma dilatação. Essa operação é útil para remover pequenos detalhes, suavizar contornos e quebrar conexões entre objetos próximos.
+    
+    Fechamento:
+    O fechamento é o inverso da abertura, consistindo em uma dilatação seguida por uma erosão. Essa operação é eficaz para preencher pequenos vazios em objetos, conectar objetos separados e suavizar contornos.
