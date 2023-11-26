@@ -1,0 +1,6 @@
+Domínio da Frequência no Processamento Digital de Imagens
+O domínio da frequência refere-se à representação das informações de uma imagem em termos de frequências espaciais. A Transformada de Fourier é uma técnica que permite analisar a composição de frequências em uma imagem, decompondo-a em suas componentes sinusoidais. Essa transformada é crucial para entender padrões, texturas e outras características fundamentais presentes nas imagens.
+
+Transformada de Fourier
+A Transformada de Fourier converte uma imagem do domínio espacial para o domínio da frequência, revelando padrões complexos que podem não ser imediatamente perceptíveis na imagem original. Essa transformada é bidimensional, representando tanto as frequências horizontais quanto as verticais.
+
